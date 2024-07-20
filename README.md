@@ -30,7 +30,7 @@ You need a web browser to run this project. No additional software or libraries 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/simon-game.git
+   git clone https://github.com/afathelbab/simon-game.git
    ```
 2. Navigate to the project directory:
    ```sh
